@@ -39,6 +39,41 @@
   - Design a clean and intuitive user interface for a positive user experience.
 
 
+# 💬 MERN Chat App
+
+## 🚀 Installation
+
+Follow these steps to set up and launch the MERN Chat App on your local machine:
+
+# 1. Clone the Repository
+git clone https://github.com/your-username/mern-chat-app.git
+
+# 2. Navigate to Server Directory
+cd mern-chat-app/server
+
+# 3. Install Server Dependencies
+npm install
+
+# 4. Create Server Environment Variables
+# Create a `.env` file in the `server` directory with the following variables:
+# PORT=5000  # or your preferred port number
+# MONGO_URI=your_mongo_db_connection_string
+# JWT_SECRET=your_secret_key
+
+# 5. Start the Server
+npm start
+
+# 6. Open a New Terminal Tab/Window
+# Keep the server running, and in a new terminal tab or window, navigate to the client directory:
+cd ../client
+
+# 7. Install Client Dependencies
+npm install
+
+# 8. Start the Client
+npm start
+
+
 
 ## Available Scripts
 
