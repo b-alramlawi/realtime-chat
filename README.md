@@ -87,24 +87,77 @@ npm start
 - 🔗 [Socket.io-client](https://socket.io/docs/v4/client-api/): Client-side library for real-time communication with the server.
 - 📡 [Axios](https://axios-http.com/): Promise-based HTTP client for making API requests easily.
 
-## Screenshots/Demo
+## Project Screenshots 📷
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
 <table class="full-width">
   <tr>
     <td align="center">
-      <p class="screenshot-title">Title for Screenshot 1</p>
-      <img src="./screenshots/login-page.png" alt="Screenshot 1">
+      <p class="screenshot-title">Login Page</p>
+      <img src="./screenshots/login-page.png" alt="Login Page">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <p class="screenshot-title">Title for Screenshot 2</p>
-      <img src="./screenshots/otp-page.png" alt="Screenshot 2">
+      <p class="screenshot-title">OTP Page</p>
+      <img src="./screenshots/otp-page.png" alt="OTP Page">
     </td>
   </tr>
-  <!-- Add more rows as needed -->
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Chat Page</p>
+      <img src="./screenshots/chat-page.png" alt="Chat Page">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Contact Page</p>
+      <img src="./screenshots/contact-page.png" alt="Contact Page">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Settings Page</p>
+      <img src="./screenshots/settings-page.png" alt="Settings Page">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Profile Page</p>
+      <img src="./screenshots/profile-page.png" alt="Profile Page">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Select Contact Page</p>
+      <img src="./screenshots/select-contact-page.png" alt="Select Contact Page">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Create New Group</p>
+      <img src="./screenshots/create-new-group.png" alt="Create New Group">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Group Chat Page</p>
+      <img src="./screenshots/group-chat-page.png" alt="Group Chat Page">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">Logout Dialog</p>
+      <img src="./screenshots/logout-dialog.png" alt="Logout Dialog">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p class="screenshot-title">404 Not Found</p>
+      <img src="./screenshots/404-not-found.png" alt="404 Not Found">
+    </td>
+  </tr>
 </table>
 
 
