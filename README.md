@@ -91,11 +91,21 @@ npm start
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
-![login-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/3b11a29e-0cab-4116-9c7f-2edc279ef0d0)
-*Caption for Screenshot 1*
-
-![otp-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/fc8ce579-bb30-4051-a3dc-52c08fc4e039)
-*Caption for Screenshot 2*
+<table>
+  <tr>
+    <td align="center">
+      <img src="![login-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/3b11a29e-0cab-4116-9c7f-2edc279ef0d0)" alt="Screenshot 1" width="400"/>
+      <br/>
+      <em>Caption for Screenshot 1</em>
+    </td>
+    <td align="center">
+      <img src="![login-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/3b11a29e-0cab-4116-9c7f-2edc279ef0d0)" alt="Screenshot 2" width="400"/>
+      <br/>
+      <em>Caption for Screenshot 2</em>
+    </td>
+  </tr>
+  <!-- Add more rows as needed -->
+</table>
 
 
 ## Learn More
