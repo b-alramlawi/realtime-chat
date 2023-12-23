@@ -1,0 +1,44 @@
+/* ContactItem.css */
+
+.contact-list-group-item {
+    margin-bottom: 10px;
+    margin-left: -30px;
+    margin-right: 10px;
+    cursor: pointer;
+    list-style: none;
+}
+
+
+.contact-item {
+    display: flex;
+    padding: 15px;
+
+}
+
+.contact-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+
+.contact-info {
+    flex: 1;
+    margin-left: 5px;
+}
+
+.contact-info h4 {
+    margin: 3px;
+    font-weight: normal;
+    font-size: 14px;
+    letter-spacing: 0;
+    color: white;
+}
+
+.contact-info p {
+    margin: 3px;
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 0;
+    color: white;
+}

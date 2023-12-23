@@ -1,0 +1,29 @@
+/* OutgoingMessageCard.css */
+.outgoing-message-card {
+    margin: 5px 10px 5px auto;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.message-content {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.message-text {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.timestamp {
+    font-size: 10px;
+    color: #fff;
+    margin-left: 10px;
+}
+
+.delivery-status {
+    margin-right: 10px;
+    color: blue;
+    font-size: 15px;
+}

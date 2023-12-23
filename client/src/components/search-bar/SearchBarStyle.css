@@ -1,0 +1,24 @@
+/*!* SearchBarStyle.css *!*/
+.search-section {
+    margin-bottom: 20px;
+}
+
+
+.search-bar {
+    display: flex;
+    align-items: center;
+}
+
+.search-bar input {
+    flex: 1;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #CC0000;
+    padding-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+
+    margin: 3px;
+    font-weight: normal;
+    font-size: 14px;
+    letter-spacing: 0;
+}

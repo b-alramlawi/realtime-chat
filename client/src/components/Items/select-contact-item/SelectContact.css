@@ -1,0 +1,67 @@
+/* SelectContact.css */
+
+.contact-list-item {
+    margin-bottom: 10px;
+    margin-left: -30px;
+    margin-right: 10px;
+    cursor: pointer;
+    list-style: none;
+}
+
+.contact-item {
+    display: flex;
+    padding: 15px;
+}
+
+.contact-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.contact-info {
+    flex: 1;
+    margin-left: 5px;
+}
+
+.contact-info h4 {
+    margin: 3px;
+    font-weight: normal;
+    font-size: 14px;
+    letter-spacing: 0;
+    color: white;
+}
+
+.checkbox-container {
+    right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-container input[type="checkbox"] {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.checkbox-container input[type="checkbox"]:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 2px;
+    background-color: red;
+    border-radius: 2px;
+    display: none;
+}
+
+.checkbox-container input[type="checkbox"]:checked:before {
+    display: block;
+}

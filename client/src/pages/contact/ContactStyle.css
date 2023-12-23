@@ -1,0 +1,78 @@
+/*ContactStyle.css*/
+
+.contact-page-container {
+    width: 500px;
+    height: 620px;
+    background-color: #333333;
+    padding: 15px;
+    border-right: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-header-section {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.contact-header-section h2 {
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+}
+
+.contact-list-section {
+    align-items: center;
+    width: 100%;
+    overflow: auto;
+    height: 500px;
+}
+
+.contact-list-group-item:hover {
+    background-color: #333333;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+
+.contact-list-section::-webkit-scrollbar {
+    width: 0.5em;
+}
+
+.create-group-section {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 15px;
+    transition: transform 0.3s ease;
+}
+
+.create-group-section:hover {
+    transform: scale(1.05);
+    border-radius: 10px;
+}
+
+.group-icon-container {
+    width: 40px;
+    height: 40px;
+    margin-right: 8px;
+    border-radius: 50%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.group-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+
+.create-group-text {
+    color: white;
+    font-size: 14px;
+}

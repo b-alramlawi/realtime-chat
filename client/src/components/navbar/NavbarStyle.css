@@ -1,0 +1,45 @@
+/*NavbarStyle.css*/
+
+/* Navbar */
+.navbar {
+    background-color: #800000;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: relative;
+    z-index: 1000;
+}
+
+
+/* Navbar Container */
+.navbar-container {
+    height: 38px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 15px;
+    padding-top: 20px;
+
+}
+
+/* Navbar Logo */
+.navbar-logo {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+
+}
+
+/* Navbar Menu */
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-icon {
+    width: 20px;
+    padding-right: 10px;
+}

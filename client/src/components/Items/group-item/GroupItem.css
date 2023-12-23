@@ -1,0 +1,55 @@
+/* GroupItem.css */
+
+.group-list-item {
+    margin-left: -30px;
+    margin-right: 10px;
+    cursor: pointer;
+    list-style: none;
+}
+
+.group-item {
+    display: flex;
+    padding: 15px;
+}
+
+.group-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.group-info {
+    flex: 1;
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.group-info h4 {
+    margin: 3px;
+    font-weight: normal;
+    font-size: 14px;
+    letter-spacing: 0;
+    color: white;
+}
+
+.group-message {
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 0;
+    color: white;
+}
+
+.group-time {
+    color: #999;
+    font-weight: normal;
+    font-size: 12px;
+    letter-spacing: 0;
+    align-self: center;
+}
+
+.divider {
+    height: 1px;
+    background-color: #999;
+    margin: 10px 0;
+}

@@ -1,0 +1,16 @@
+/* FailedMessageStyle.css */
+
+/* Failed Message Container */
+.failed-message {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+/* Message Text */
+.message-text {
+    font-size: 16px;
+}

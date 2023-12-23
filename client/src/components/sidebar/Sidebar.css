@@ -1,0 +1,32 @@
+/*!* Sidebar.css *!*/
+
+.sidebar-container {
+    width: 70px;
+    height: 650px;
+    background-color: #800000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebar-container div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.sidebar-container div img {
+    width: 20px;
+    margin-right: 8px;
+}
+
+.sidebar-container div:hover {
+    background-color: #555;
+}
+
+.sidebar-container div:last-child {
+    margin-top: auto;
+}

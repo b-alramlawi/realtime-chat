@@ -1,0 +1,91 @@
+/* OTPStyle.css */
+
+.otp-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.otp-welcome-background {
+    width: 40%;
+    height: 100%;
+    position: relative;
+
+}
+
+.otp-background-image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    animation: slideInBottom 1s ease 0.5s;
+}
+
+.otp-container {
+    width: 450px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    box-shadow: 0 0 15px #800000;
+    background-color: #f9f9f9;
+    animation: slideInBottom 1s ease 0.5s;
+
+}
+
+@keyframes slideInBottom {
+    from {
+        transform: translateY(100%);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.otp-input-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    width: 18%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.verify-button {
+    background-color: #800000;
+    color: white;
+    width: 100%;
+    padding: 15px 0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+.verify-button:hover {
+    background-color: #9b0404;
+}
+
+/* Add the following styles to OTPStyle.css */
+
+.error-message {
+    color: #ff0000;
+    font-size: 14px;
+    margin-top: 5px;
+}

@@ -1,0 +1,29 @@
+/*StatusStyle.css*/
+
+/* Add this style to center the image */
+.status-page-container {
+    width: 500px;
+    background-color: #eee;
+    padding: 15px;
+    border-right: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.status-center-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.status-header-section h2 {
+    font-size: 18px;
+    color: #333;
+}
+
+.status-center-image {
+    max-width: 30%;
+    max-height: 30%;
+}

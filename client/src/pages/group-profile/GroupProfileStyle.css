@@ -1,0 +1,146 @@
+/* GroupProfileStyle.css */
+
+.group-profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.group-profile-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.group-profile-picture:hover {
+    transform: scale(1.1);
+}
+
+.group-profile-picture {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    transition: transform 0.3s ease;
+}
+
+.group-profile-picture img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.camera-icon {
+    position: absolute;
+    bottom: 15px;
+    right: 10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #CC0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.camera-icon img {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.group-profile-details {
+    margin-top: 20px;
+}
+
+.group-profile-label {
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.group-profile-info {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.input-field {
+    width: 500px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.3s ease;
+    flex: 1;
+    border-radius: 1px;
+    text-align: left;
+    border-bottom: 2px solid transparent;
+    border-bottom: 2px solid #CC0000;
+}
+
+.edit-button {
+    width: 100%;
+    /*padding: 15px 0;*/
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    background-color: #800000;
+    color: #fff;
+    padding: 8px 16px;
+    display: inline-block;
+}
+
+.edit-button:hover {
+    background-color: #9b0404;
+}
+
+
+.user-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+
+.user-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.user-column:hover {
+    transform: scale(1.1);
+}
+
+.user-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    transition: transform 0.3s ease;
+}
+
+.user-name {
+    font-weight: normal;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+
+.error-message {
+    color: #cc0000;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

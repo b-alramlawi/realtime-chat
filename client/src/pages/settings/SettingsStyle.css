@@ -1,0 +1,64 @@
+/*SettingsStyle.css*/
+
+.setting-page-container {
+    width: 500px;
+    background-color: #333333;
+    padding: 15px;
+    border-right: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+.setting-header-section {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.setting-header-section h2 {
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+}
+
+.setting-list-section {
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.setting-list-group-item:hover {
+    background-color: #333333;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+.bottom-section {
+    margin-top: auto;
+    padding: 10px 10px 0 10px;
+    text-align: left;
+}
+
+.logout-divider {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.logout-button {
+    background-color: rgba(253, 53, 53, 0.7);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.logout-button:hover {
+    background-color: #e74c3c;
+}
+
+.description-text {
+    font-size: 14px;
+    color: #7c7c7c;
+    margin-top: 10px;
+}

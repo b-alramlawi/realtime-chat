@@ -1,0 +1,38 @@
+/* GroupConversationStyle.css */
+
+.group-conversation-page-container {
+    width: 500px;
+    background-color: #333333;
+    padding: 15px;
+    border-right: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+.group-conversation-header-section {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.group-conversation-header-section h2 {
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+}
+
+.group-list-item:hover {
+    background-color: #333333;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+.group-conversation-list-section {
+    align-items: center;
+    width: 100%;
+    overflow: auto;
+    height: 500px;
+}
+
+.group-conversation-list-section::-webkit-scrollbar {
+    width: 0.5em;
+}

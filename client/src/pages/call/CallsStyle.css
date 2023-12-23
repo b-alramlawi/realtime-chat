@@ -1,0 +1,27 @@
+/*CallsStyle.css*/
+
+.call-page-container {
+    width: 500px;
+    background-color: #eee;
+    padding: 15px;
+    border-right: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+}
+
+.call-center-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.call-header-section h2 {
+    font-size: 18px;
+    color: #333;
+}
+
+.call-center-image {
+    max-width: 30%;
+    max-height: 30%;
+}

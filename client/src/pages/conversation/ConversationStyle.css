@@ -1,0 +1,39 @@
+/*ConversationStyle.css */
+
+.conversation-page-container {
+    width: 500px;
+    background-color: #333333;
+    padding: 15px;
+    border-right: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.conversation-header-section {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.conversation-header-section h2 {
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+}
+
+.conversation-list-group-item:hover {
+    background-color: #333333;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+.conversation-list-section {
+    align-items: center;
+    width: 100%;
+    overflow: auto;
+    height: 500px;
+}
+
+.conversation-list-section::-webkit-scrollbar {
+    width: 0.5em;
+}
