@@ -95,6 +95,7 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
   <tr>
     <td align="center">
       <em>Title for Screenshot 1</em>
+      <em></em>
       <br>
       <img src="./screenshots/login-page.png" alt="Screenshot 1">
     </td>
