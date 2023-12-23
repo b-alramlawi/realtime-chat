@@ -39,12 +39,10 @@
   - Design a clean and intuitive user interface for a positive user experience.
 
 
-# 💬 MERN Chat App
-
 ## 🚀 Installation
 
 Follow these steps to set up and launch the MERN Chat App on your local machine:
-
+```bash
 # 1. Clone the Repository
 git clone https://github.com/your-username/mern-chat-app.git
 
@@ -72,7 +70,7 @@ npm install
 
 # 8. Start the Client
 npm start
-
+```
 
 
 ## Available Scripts
