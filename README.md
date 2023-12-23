@@ -91,22 +91,20 @@ npm start
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/login-page.png" alt="Screenshot 1" width="400"/>
-      <br/>
-      <em>Caption for Screenshot 1</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/otp-page.png" alt="Screenshot 2" width="400"/>
-      <br/>
-      <em>Caption for Screenshot 2</em>
-    </td>
-  </tr>
-  
-  <!-- Add more rows as needed -->
-</table>
+<div align="center">
+  <figure>
+    <img src="./screenshots/login-page.png" alt="Screenshot 1" width="400">
+    <figcaption><em>Title for Screenshot 1</em><br/>Caption for Screenshot 1</figcaption>
+  </figure>
+</div>
+
+<div align="center">
+  <figure>
+    <img src="./screenshots/otp-page.png" alt="Screenshot 2" width="400">
+    <figcaption><em>Title for Screenshot 2</em><br/>Caption for Screenshot 2</figcaption>
+  </figure>
+</div>
+
 
 
 ## Learn More
