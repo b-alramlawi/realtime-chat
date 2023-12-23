@@ -94,7 +94,7 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
 <table class="full-width">
   <tr>
     <td align="center">
-      <em style="padding-bottom: 10px;">Title for Screenshot 1</em>
+      <em style="font-size: 18px; font-weight: bold; padding-bottom: 10px;">Title for Screenshot 1</em>
       <br>
       <img src="./screenshots/login-page.png" alt="Screenshot 1">
     </td>
