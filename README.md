@@ -75,18 +75,17 @@ npm start
 ## 🚀 Technologies Used
 
 ### Server:
-- 🚀 [Node.js](https://nodejs.org/)
-- 🌐 [Express.js](https://expressjs.com/)
-- 🍃 [MongoDB](https://www.mongodb.com/)
-- 📦 [Mongoose](https://mongoosejs.com/)
-- 🔗 [Socket.io](https://socket.io/) (for real-time communication)
+- 🚀 [Node.js](https://nodejs.org/): JavaScript runtime for server-side development.
+- 🌐 [Express.js](https://expressjs.com/): Web application framework for Node.js, simplifying server-side development.
+- 🍃 [MongoDB](https://www.mongodb.com/): NoSQL database for efficient and scalable data storage.
+- 📦 [Mongoose](https://mongoosejs.com/): MongoDB object modeling for Node.js, providing a more straightforward data interaction.
+- 🔗 [Socket.io](https://socket.io/): Real-time communication library for enabling instant messaging functionality.
 
 ### Client:
-- ⚛️ [React](https://reactjs.org/)
-- 🌐 [React Router](https://reactrouter.com/)
-- 🔗 [Socket.io-client](https://socket.io/docs/v4/client-api/) (for real-time communication)
-- 🎨 [Bootstrap](https://getbootstrap.com/) (for styling)
-- 📡 [Axios](https://axios-http.com/) (for API requests)
+- ⚛️ [React](https://reactjs.org/): JavaScript library for building user interfaces, making the client-side interactive and dynamic.
+- 🌐 [React Router](https://reactrouter.com/): Declarative navigation for React applications, allowing for seamless page transitions.
+- 🔗 [Socket.io-client](https://socket.io/docs/v4/client-api/): Client-side library for real-time communication with the server.
+- 📡 [Axios](https://axios-http.com/): Promise-based HTTP client for making API requests easily.
 
 ## Learn More
 
