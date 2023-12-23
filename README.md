@@ -1,4 +1,4 @@
-# Getting Started with Create Node JS App
+# Getting Started with Create Mern Stack App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
