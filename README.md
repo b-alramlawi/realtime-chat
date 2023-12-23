@@ -91,10 +91,10 @@ npm start
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
-![Screenshot 1](./screenshots/screenshot1.png)
+![login-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/3b11a29e-0cab-4116-9c7f-2edc279ef0d0)
 *Caption for Screenshot 1*
 
-![Screenshot 2](./screenshots/screenshot2.png)
+![otp-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/fc8ce579-bb30-4051-a3dc-52c08fc4e039)
 *Caption for Screenshot 2*
 
 
