@@ -44,7 +44,7 @@
 Follow these steps to set up and launch the MERN Chat App on your local machine:
 ```bash
 # 1. Clone the Repository
-git clone https://github.com/your-username/mern-chat-app.git
+git clone https://github.com/b-alramlawi/realtime-chat.git
 
 # 2. Navigate to Server Directory
 cd mern-chat-app/server
