@@ -72,6 +72,22 @@ npm install
 npm start
 ```
 
+## 🚀 Technologies Used
+
+### Server:
+- 🚀 [Node.js](https://nodejs.org/)
+- 🌐 [Express.js](https://expressjs.com/)
+- 🍃 [MongoDB](https://www.mongodb.com/)
+- 📦 [Mongoose](https://mongoosejs.com/)
+- 🔗 [Socket.io](https://socket.io/) (for real-time communication)
+
+### Client:
+- ⚛️ [React](https://reactjs.org/)
+- 🌐 [React Router](https://reactrouter.com/)
+- 🔗 [Socket.io-client](https://socket.io/docs/v4/client-api/) (for real-time communication)
+- 🎨 [Bootstrap](https://getbootstrap.com/) (for styling)
+- 📡 [Axios](https://axios-http.com/) (for API requests)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
