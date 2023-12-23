@@ -87,6 +87,17 @@ npm start
 - 🔗 [Socket.io-client](https://socket.io/docs/v4/client-api/): Client-side library for real-time communication with the server.
 - 📡 [Axios](https://axios-http.com/): Promise-based HTTP client for making API requests easily.
 
+## Screenshots/Demo
+
+Here are some screenshots and a brief demo of the MERN Stack Chat App:
+
+![Screenshot 1](./screenshots/screenshot1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](./screenshots/screenshot2.png)
+*Caption for Screenshot 2*
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
