@@ -1,6 +1,8 @@
-# Getting Started with Create Mern Stack App
+# MERN Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
+
+**MERN Chat App** is a real-time messaging application built using the MERN stack, featuring Socket.io for seamless communication. This application allows users to engage in instant messaging, creating chat rooms for various topics, and exchanging messages in real-time. The MERN Chat App is designed to provide a simple and intuitive platform for users to connect and communicate effortlessly.
 
 ## Available Scripts
 
