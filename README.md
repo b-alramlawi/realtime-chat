@@ -91,24 +91,6 @@ npm start
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
-  }
-</style>
-
 <table>
   <tr>
     <th>Title</th>
