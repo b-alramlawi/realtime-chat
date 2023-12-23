@@ -4,7 +4,7 @@
 
 **Realtime Chat App** is a real-time messaging application built using the MERN stack, featuring Socket.io for seamless communication. This application allows users to engage in instant messaging, creating chat rooms for various topics, and exchanging messages in real-time. The Realtime Chat App is designed to provide a simple and intuitive platform for users to connect and communicate effortlessly.
 
-![mern-stack3]([https://github.com/b-alramlawi/realtime-chat/assets/63581864/bfdac413-92b2-4b82-a5df-a4cfb80a429a](https://media.cloudbooklet.com/wp-content/uploads/2022/02/18082924/How-to-Install-MERN-Stack-with-Nginx-on-Debian-11.jpg))
+![mern-stack3](https://media.cloudbooklet.com/wp-content/uploads/2022/02/18082924/How-to-Install-MERN-Stack-with-Nginx-on-Debian-11.jpg)
 
 ## ✨ Features
 
