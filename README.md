@@ -87,9 +87,16 @@ npm start
 - 🔗 [Socket.io-client](https://socket.io/docs/v4/client-api/): Client-side library for real-time communication with the server.
 - 📡 [Axios](https://axios-http.com/): Promise-based HTTP client for making API requests easily.
 
+## Project Structure 📁
+
+The project follows a modular and organized structure, separating components like controllers, models, routes, and middleware. This structure promotes maintainability and code separation.
+
+![MVC3](https://www.freecodecamp.org/news/content/images/2021/04/MVC3.png)
+
+
 ## Project Screenshots 📷
 
-Here are some screenshots and a brief demo of the MERN Stack Chat App:
+Here are some screenshots and a brief demo of the Realtime Chat App:
 
 <table class="full-width">
   <tr>
@@ -160,9 +167,3 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
   </tr>
 </table>
 
-
-## Project Structure 📁
-
-The project follows a modular and organized structure, separating components like controllers, models, routes, and middleware. This structure promotes maintainability and code separation.
-
-![MVC3](https://www.freecodecamp.org/news/content/images/2021/04/MVC3.png)
