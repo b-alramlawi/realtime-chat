@@ -72,41 +72,6 @@ npm install
 npm start
 ```
 
-
-## 🚀 Installation
-
-In the project directories (`server` and `client`), you can run the following scripts:
-
-### Server
-
-#### `npm start`
-
-Runs the server in development mode.\
-Open [http://localhost:5000](http://localhost:5000) to access the server.
-
-### Client
-
-#### `npm start`
-
-Runs the client app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-#### `npm test`
-
-Launches the test runner in interactive watch mode for the client.\
-See the section about [running tests](https://create-react-app.dev/docs/running-tests) for more information.
-
-#### `npm run build`
-
-Builds the client app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified, and the filenames include the hashes.\
-Your app is ready to be deployed!
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
