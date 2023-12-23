@@ -117,12 +117,12 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
     <td align="center">
       <em>Title for Screenshot 1</em>
       <br>
-      <img src="./screenshots/login-page.png" alt="Screenshot 1">
+      <img src="./screenshots/screenshot1.png" alt="Screenshot 1">
     </td>
     <td align="center">
       <em>Title for Screenshot 2</em>
       <br>
-      <img src="./screenshots/otp-page.png" alt="Screenshot 2">
+      <img src="./screenshots/screenshot2.png" alt="Screenshot 2">
     </td>
   </tr>
   <!-- Add more rows as needed -->
