@@ -104,6 +104,7 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
       <em>Caption for Screenshot 2</em>
     </td>
   </tr>
+  
   <!-- Add more rows as needed -->
 </table>
 
