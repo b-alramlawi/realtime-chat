@@ -94,17 +94,17 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
 <table>
   <tr>
     <td align="center">
-      <em>Title for Screenshot 1</em>
-      <br>
+      <em>Title for Screenshot 1</em><br>
       <img src="./screenshots/login-page.png" alt="Screenshot 1" width="400">
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <em>Title for Screenshot 2</em>
-      <br>
+      <em>Title for Screenshot 2</em><br>
       <img src="./screenshots/otp-page.png" alt="Screenshot 2" width="400">
     </td>
   </tr>
-  <!-- Add more columns as needed -->
+  <!-- Add more rows as needed -->
 </table>
 
 
