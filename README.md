@@ -6,7 +6,37 @@
 
 ![mern-stack3](https://github.com/b-alramlawi/realtime-chat/assets/63581864/bfdac413-92b2-4b82-a5df-a4cfb80a429a)
 
+## ✨ Features
 
+- **Real-time Messaging:**
+  - Instantly send and receive messages in real-time, creating a dynamic and responsive chatting experience.
+
+- **Chat Rooms:**
+  - Users can create and join different chat rooms, allowing for organized and topic-specific conversations.
+
+- **User Authentication:**
+  - Secure user authentication using JSON Web Tokens (JWT) to ensure the privacy and integrity of user data.
+
+- **Responsive Design:**
+  - A responsive and user-friendly interface built with React.js, making the application accessible across various devices.
+
+- **Persistent Data Storage:**
+  - MongoDB is used as the database to store chat messages and user information, ensuring data persistence.
+
+- **File Sharing:**
+  - Support for sharing files within the chat, facilitating collaboration and content sharing.
+
+- **Customizable User Profiles:**
+  - Users can personalize their profiles with avatars, status messages, and other customizable details.
+
+- **Search Functionality:**
+  - Search through chat history or messages to quickly find specific information.
+
+- **Multimedia Support:**
+  - Embed images, videos, and other multimedia content directly within the chat.
+
+- **Intuitive User Interface:**
+  - Design a clean and intuitive user interface for a positive user experience.
 
 
 
