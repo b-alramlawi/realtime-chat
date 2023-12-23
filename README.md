@@ -91,18 +91,34 @@ npm start
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
+<style>
+  .full-width {
+    width: 100%;
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
+    margin: auto;
+  }
+  .screenshot-title {
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+</style>
+
 <table class="full-width">
   <tr>
     <td align="center">
-      <em style="font-size: 18px; font-weight: bold; padding-bottom: 10px;">Title for Screenshot 1</em>
-      <br>
+      <p class="screenshot-title">Title for Screenshot 1</p>
       <img src="./screenshots/login-page.png" alt="Screenshot 1">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <em>Title for Screenshot 2</em>
-      <br>
+      <p class="screenshot-title">Title for Screenshot 2</p>
       <img src="./screenshots/otp-page.png" alt="Screenshot 2">
     </td>
   </tr>
