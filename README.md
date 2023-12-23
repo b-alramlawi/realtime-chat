@@ -91,17 +91,38 @@ npm start
 
 Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
+<style>
+  table {
+    width: 100%;
+    height: 100vh; /* 100% of viewport height */
+  }
+  td {
+    width: 50%; /* Each column takes up 50% of the width */
+    height: 100%;
+  }
+  em {
+    display: block; /* Ensure each title is on a new line */
+  }
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Maintain image aspect ratio and fit within the container */
+    display: block;
+    margin: auto;
+  }
+</style>
+
 <table>
   <tr>
     <td align="center">
-      <em>Title for Screenshot 1</em><br>
-      <img src="./screenshots/login-page.png" alt="Screenshot 1" width="400">
+      <em>Title for Screenshot 1</em>
+      <br>
+      <img src="./screenshots/screenshot1.png" alt="Screenshot 1">
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <em>Title for Screenshot 2</em><br>
-      <img src="./screenshots/otp-page.png" alt="Screenshot 2" width="400">
+      <em>Title for Screenshot 2</em>
+      <br>
+      <img src="./screenshots/screenshot2.png" alt="Screenshot 2">
     </td>
   </tr>
   <!-- Add more rows as needed -->
