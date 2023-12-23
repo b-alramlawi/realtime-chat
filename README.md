@@ -3,7 +3,8 @@
 ## Project Description
 
 **Realtime Chat App** is a real-time messaging application built using the MERN stack, featuring Socket.io for seamless communication. This application allows users to engage in instant messaging, creating chat rooms for various topics, and exchanging messages in real-time. The Realtime Chat App is designed to provide a simple and intuitive platform for users to connect and communicate effortlessly.
-![mern-stack](https://github.com/b-alramlawi/realtime-chat/assets/63581864/6a725440-81c8-4044-adca-001540d99bd8)
+![mern-stack3](https://github.com/b-alramlawi/realtime-chat/assets/63581864/f1dc3ee8-4a4e-4774-86de-9b4e710715a0)
+
 
 ## Available Scripts
 
