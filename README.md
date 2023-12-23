@@ -93,18 +93,18 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
 
 <table>
   <tr>
-    <th>Title</th>
-    <th>Screenshot</th>
+    <td align="center">
+      <em>Title for Screenshot 1</em>
+      <br>
+      <img src="./screenshots/login-page.png" alt="Screenshot 1" width="400">
+    </td>
+    <td align="center">
+      <em>Title for Screenshot 2</em>
+      <br>
+      <img src="./screenshots/otp-page.png" alt="Screenshot 2" width="400">
+    </td>
   </tr>
-  <tr>
-    <td><em>Title for Screenshot 1</em></td>
-    <td><img src="./screenshots/login-page.png" alt="Screenshot 1"></td>
-  </tr>
-  <tr>
-    <td><em>Title for Screenshot 2</em></td>
-    <td><img src="./screenshots/otp-page.png" alt="Screenshot 2"></td>
-  </tr>
-  <!-- Add more rows as needed -->
+  <!-- Add more columns as needed -->
 </table>
 
 
