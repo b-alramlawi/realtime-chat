@@ -94,14 +94,12 @@ Here are some screenshots and a brief demo of the MERN Stack Chat App:
 <table>
   <tr>
     <td align="center">
-      <img src="![login-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/f0e4289a-77a3-4ce8-a4cc-a1bd5ef2f253)
-" alt="Screenshot 1" width="400"/>
+      <img src="./screenshots/login-page.png" alt="Screenshot 1" width="400"/>
       <br/>
       <em>Caption for Screenshot 1</em>
     </td>
     <td align="center">
-      <img src="![login-page](https://github.com/b-alramlawi/realtime-chat/assets/63581864/f8633e74-94de-4181-9085-79eba1a68636)
-" alt="Screenshot 2" width="400"/>
+      <img src="./screenshots/otp-page.png" alt="Screenshot 2" width="400"/>
       <br/>
       <em>Caption for Screenshot 2</em>
     </td>
